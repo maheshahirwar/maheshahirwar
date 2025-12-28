@@ -62,18 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshahirwar&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshahirwar" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mahesh-ahirwar-6968921a9/
