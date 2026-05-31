@@ -18,11 +18,15 @@ Java • Spring Boot • Distributed Systems • Microservices
 
 ## About
 
-Software Engineer with 3.8 years of experience building backend systems and enterprise applications.
+Software Engineer with 3.8 years of experience building backend systems, distributed applications, and enterprise software.
 
-My primary focus is backend engineering using Java, Spring Boot, Kafka, Redis, Docker, and Kubernetes. I enjoy working on distributed systems, microservices, system design, and performance optimization.
+My primary focus is backend engineering using Java, Spring Boot, Kafka, Redis, Docker, and Kubernetes. I enjoy working on distributed systems, microservices, system design, performance optimization, and scalable software architecture.
 
-Recently, I have also been exploring LLM applications, Agentic AI systems, RAG architectures, and workflow automation.
+I have solved 1800+ Data Structures and Algorithms problems across LeetCode and GeeksforGeeks and actively practice Low Level Design and System Design.
+
+I regularly build production-inspired systems and have implemented Parking Lot, Elevator System, Movie Booking System, Task Management Platform, Splitwise Clone, and several distributed backend applications.
+
+Recently, I have also been exploring LLM applications, Agentic AI systems, Retrieval-Augmented Generation (RAG), and workflow automation.
 
 ---
 
@@ -76,41 +80,84 @@ Recently, I have also been exploring LLM applications, Agentic AI systems, RAG a
 
 ## Featured Projects
 
-### Enterprise Multi-Agent Platform
+### AI & Agentic Systems
+
+#### Enterprise Multi-Agent Platform
 
 Multi-agent AI orchestration platform built using modern Agentic AI patterns.
 
-### Knowledge Copilot (RAG Platform)
+#### Knowledge Copilot (RAG Platform)
 
 Enterprise knowledge retrieval platform powered by Retrieval-Augmented Generation.
 
-### Distributed Order Processing System
+#### AI Code Review Agent
 
-Microservices-based order management platform built using Kafka, Redis, and Spring Boot.
+AI-powered code review assistant capable of analyzing code quality, design, security, and performance concerns.
 
-### Distributed Payment Processing Engine
+---
 
-Scalable payment processing platform designed using event-driven architecture.
+### Distributed Systems
 
-### API Gateway & Authentication Platform
+#### Distributed Order Processing System
 
-Authentication, authorization, and API gateway implementation for microservices.
+Microservices-based order management platform built using Kafka, Redis, Spring Boot, Docker, and Kubernetes.
 
-### Scalable URL Shortener (Go)
+#### Distributed Payment Processing Engine
 
-Distributed URL shortening service built using Golang, Redis, and PostgreSQL.
+Scalable payment processing platform designed using event-driven architecture and distributed workflows.
+
+#### Real-Time Notification Platform
+
+Kafka-based notification platform supporting Email, SMS, and Push notifications.
+
+#### API Gateway & Authentication Platform
+
+Authentication, authorization, and API gateway implementation for microservices-based systems.
+
+#### Scalable URL Shortener (Go)
+
+Distributed URL shortening platform built using Golang, Redis, and PostgreSQL.
+
+---
+
+### Low Level Design
+
+#### Parking Lot System
+
+Object-oriented design implementation focusing on extensibility, maintainability, and design patterns.
+
+#### Elevator System
+
+Concurrent and scalable elevator scheduling system.
+
+#### Movie Booking System
+
+Production-inspired booking workflow handling screens, shows, seats, and reservations.
+
+#### Task Management Platform
+
+Scalable task management application supporting workflows, prioritization, and collaboration.
+
+#### Splitwise Clone
+
+Expense sharing application implementing clean architecture and object-oriented design principles.
+
+More LLD and System Design projects coming soon.
 
 ---
 
 ## Interests
 
+* Backend Engineering
 * Distributed Systems
 * System Design
-* Backend Engineering
+* Low Level Design
 * Event-Driven Architecture
+* Microservices
 * Agentic AI
-* Retrieval-Augmented Generation
+* Retrieval-Augmented Generation (RAG)
 * Cloud Native Applications
+* Performance Engineering
 
 ---
 
@@ -118,8 +165,12 @@ Distributed URL shortening service built using Golang, Redis, and PostgreSQL.
 
 * 3.8 Years of Industry Experience
 * 1800+ DSA Problems Solved
-* Infosys Insta Award Recipient
+* Strong Problem Solving and Competitive Programming Background
+* Hands-on Experience with Low Level Design and System Design
+* Built Parking Lot, Elevator System, Movie Booking System, Splitwise Clone, and Task Management Platform
 * Experience working with enterprise clients including Apple and Bank of America
+* Infosys Insta Award Recipient
+* Building AI Agents, RAG Platforms, and Distributed Systems
 
 ---
 
